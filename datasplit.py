@@ -2,7 +2,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-data = pd.read_csv("data/CleanedUpData.csv")
+data = pd.read_csv("EditData/data/CleanedUpData.csv")
 
 train_data, test_data = train_test_split(data, 
                 test_size=0.2, # 20% for test set, 80% for training + validation
