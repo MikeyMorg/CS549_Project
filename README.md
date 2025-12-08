@@ -1,6 +1,6 @@
 Nothing Here! Yet!
 CS549
-Michael Morgan, Kevin Stratton, Yotam
+Michael Morgan, Kevin Stratton, Yotam Boiani
 
 
 Game Reccomendation model: a model that reccomends games based on the user's games that are played using a Kmeans clustering algorithm
