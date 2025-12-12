@@ -38,6 +38,8 @@ the results of the kmeans model. displays the silhoulette score and graph of the
 ### Train_KMeans.ipynb
 This notebook is where we start training the K-means model. It creates the following files, located in the subfolder 'Important_Data':
 
+## Important_Data
+ Subfolder with the the files created from Train_KMeans.ipynb
 ###### user_vectors.npy
 The "users" set of games represented as vectors.
 
