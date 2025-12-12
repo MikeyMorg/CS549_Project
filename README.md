@@ -1,5 +1,5 @@
 # CS549 - Final Project
-Michael Morgan, Kevin Stratton, Yotam
+Michael Morgan, Kevin Stratton, Yotam Boiani
 
 # Abstract
 Game Reccomendation Model: a model that reccomends games based on the user's games that are played using a K-Means Clustering Algorithm
